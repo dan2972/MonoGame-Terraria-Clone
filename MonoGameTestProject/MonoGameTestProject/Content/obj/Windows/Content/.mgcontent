@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/BasicText.spritefont</File>
+    <File>C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/soundfx/bulletBasic.wav</File>
+    <File>C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/soundfx/summon_gong.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,87 @@
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGameTestProject.exe
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGameTestProject.pdb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.csproj.CopyComplete
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.exe
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.pdb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\BasicText.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\BasicText.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGameTestProject.exe
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGameTestProject.pdb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.csprojAssemblyReference.cache
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.csproj.CopyComplete
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.exe
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.pdb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\Roboto-Bold.ttf
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\Roboto-Regular.ttf
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\Roboto-Bold.ttf
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\Roboto-Regular.ttf
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\projectilesprites\bullet_line.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_basic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_basic_eye.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\soundfx\bulletBasic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\crate.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\dirt_basic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\dirt_basic_grass.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_mage_basic_sprite_sheet.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\soundfx\summon_gong.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\spellcastsprites\ice_spell_cast_mc.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_basic.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_basic_eye.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\crate.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\dirt_basic.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\dirt_basic_grass.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_mage_basic_sprite_sheet.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\spellcastsprites\ice_spell_cast_mc.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\soundfx\bulletBasic.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\soundfx\summon_gong.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\projectilesprites\bullet_line.xnb
+C:\Users\Daniel Song\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\projectilesprites\bullet_particle.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\map.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\stone_basic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\playersprites\player_basic_sprite_sheet.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\projectilesprites\particle_basic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\inventory_bar.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\hotbar_highlight.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\itemsprites\fire_wand.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\obj\x86\Debug\MonoGameTestProject.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\dirt_wall.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\itemsprites\pistol_basic.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\blocksprites\stone_wall.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\mobsprites\zombie1.xnb
+C:\Users\danie\source\repos\MonoGameTestProject\MonoGameTestProject\bin\Windows\x86\Debug\Content\itemsprites\stone_hammer.xnb

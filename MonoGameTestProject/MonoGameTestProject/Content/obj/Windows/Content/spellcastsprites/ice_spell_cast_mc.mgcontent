@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/spellcastsprites/ice_spell_cast_mc.png</SourceFile>
+  <SourceTime>2020-03-11T05:13:24-08:00</SourceTime>
+  <DestFile>C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/bin/Windows/Content/spellcastsprites/ice_spell_cast_mc.xnb</DestFile>
+  <DestTime>2020-05-28T13:12:36.1525821-08:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

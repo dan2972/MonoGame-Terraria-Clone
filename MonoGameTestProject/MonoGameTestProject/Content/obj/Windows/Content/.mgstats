@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/BasicText.spritefont","C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/bin/Windows/Content/BasicText.xnb","FontDescriptionProcessor","SpriteFontContent",2016,21521,1.116999
+"C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/soundfx/bulletBasic.wav","C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/bin/Windows/Content/soundfx/bulletBasic.xnb","SoundEffectProcessor","SoundEffectContent",67524,67585,1.480998
+"C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/soundfx/summon_gong.wav","C:/Users/danie/source/repos/MonoGameTestProject/MonoGameTestProject/Content/bin/Windows/Content/soundfx/summon_gong.xnb","SoundEffectProcessor","SoundEffectContent",924628,924689,1.229998
