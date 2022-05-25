@@ -1,5 +1,5 @@
 # MonoGame-Terraria-Clone
-A 2D sandbox game similar to Terraria that I made using MonoGame in 2020
+A 2D sandbox game similar to Terraria that I made using C# and the XNA/MonoGame framework over the summer of 2020.
 
 WARNING: This project used an old/outdated version of MonoGame (3.7.1) which may be incompatable with the current version. A change to the .csproj file may be required to rebuild the project.
 
